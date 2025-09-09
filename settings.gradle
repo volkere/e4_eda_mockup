@@ -1,0 +1,2 @@
+rootProject.name = "E4App"
+include(":app")

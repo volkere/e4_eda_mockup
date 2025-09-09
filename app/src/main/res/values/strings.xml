@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">E4App</string>
+</resources>
+
+<resources>
+    <string name="app_name">E4 App</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="status_idle">Idle</string>
+    <string name="status_running">Running</string>
+    <string name="eda_value">EDA: %1$.3f µS</string>
+</resources>
+
+
